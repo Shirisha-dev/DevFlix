@@ -140,7 +140,7 @@ Hover animations are controlled by these Tailwind classes:
 ## 🔗 Portfolio Links
 
 - **React Portfolio**: [https://shirisha-portfolio.vercel.app/](https://shirisha-portfolio.vercel.app/)
-- **Angular Portfolio**: [https://shirisha-angular-portfolio.vercel.app//](https://shirisha-angular-portfolio.vercel.app/)
+- **Angular Portfolio**: [https://shirisha-angular-portfolio.vercel.app/](https://shirisha-angular-portfolio.vercel.app/)
 
 ## 📱 Browser Support
 
